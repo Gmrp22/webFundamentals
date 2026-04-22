@@ -1,0 +1,47 @@
+{
+  "body": {
+    "name": "Gilda",
+    "age": 30
+  },
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "curl/8.7.1",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "25"
+  },
+  "method": "POST",
+  "url": "/"
+}
+{
+  "body": {
+    "name": "Gilda",
+    "age": 30
+  },
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "curl/8.7.1",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "25"
+  },
+  "method": "POST",
+  "url": "/"
+}
+[object Object]
+[object Object]
+{
+  "body": {
+    "name": "Gilda",
+    "age": 30
+  },
+  "headers": {
+    "host": "localhost:3000",
+    "user-agent": "curl/8.7.1",
+    "accept": "*/*",
+    "content-type": "application/json",
+    "content-length": "25"
+  },
+  "method": "POST",
+  "url": "/"
+}
